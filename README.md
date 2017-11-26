@@ -1,6 +1,6 @@
 # Exceptional-Calculator
 Harmanjit Randhawa 
-Please view test cases for further possible inputs and results
+Please view TestCases.xlsx for further possible inputs and results
 
 The primary goal of this project is to try to implement exception handling without using any if else, while or for loop 
 This project have just 1 switch statement no other loops or if else statements
