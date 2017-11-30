@@ -1,5 +1,5 @@
 # Exceptional-Calculator
-# Object oriented porgramming, inheritance, Java, GUI, Listeners, javax.swing, test cases, exception handling, unary operations, no loops
+# Object oriented programming, inheritance, Java, GUI, Listeners, javax.swing, test cases, exception handling, unary operations, no loops
 Harmanjit Randhawa 
 Please view TestCases.xlsx for further possible inputs and results
 
